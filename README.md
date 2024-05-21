@@ -14,6 +14,25 @@ You can click the Preview link to take a look at your changes.
 ## Mes compétences 
 ### Languages 
 
-![logo python](https://camo.githubusercontent.com/64e7f76905b7ff4cf8e02977727d4ed8ad5fa33a0fbc204d87c40473ee8dc418/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079)
-![logo java](https://camo.githubusercontent.com/70382ec8b6ad4f51d96246f0371f9660d4709cd5894734ab3de46dae24ef48e0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661)
-![logo html](https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c)
+![My Skills](https://skillicons.dev/icons?i=py)
+![My Skills](https://skillicons.dev/icons?i=java)
+![My Skills](https://skillicons.dev/icons?i=cpp)
+![My Skills](https://skillicons.dev/icons?i=c)
+![My Skills](https://skillicons.dev/icons?i=bash)
+![My Skills](https://skillicons.dev/icons?i=html)
+![My Skills](https://skillicons.dev/icons?i=css)
+
+### Applications
+
+![My Skills](https://skillicons.dev/icons?i=eclipse)
+![My Skills](https://skillicons.dev/icons?i=github)
+![My Skills](https://skillicons.dev/icons?i=idea)
+![My Skills](https://skillicons.dev/icons?i=vscode)
+![My Skills](https://skillicons.dev/icons?i=visualstudio)
+
+
+
+### Système
+
+![My Skills](https://skillicons.dev/icons?i=windows)
+![My Skills](https://skillicons.dev/icons?i=linux)
