@@ -14,4 +14,6 @@ You can click the Preview link to take a look at your changes.
 ## Mes compétences 
 ### Languages 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![logo python](https://camo.githubusercontent.com/64e7f76905b7ff4cf8e02977727d4ed8ad5fa33a0fbc204d87c40473ee8dc418/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079)
+![logo java](https://camo.githubusercontent.com/70382ec8b6ad4f51d96246f0371f9660d4709cd5894734ab3de46dae24ef48e0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661)
+![logo html](https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c)
