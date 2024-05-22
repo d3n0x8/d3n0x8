@@ -24,15 +24,13 @@ You can click the Preview link to take a look at your changes.
 
 ### Applications
 
-![My Skills](https://skillicons.dev/icons?i=eclipse)
-![My Skills](https://skillicons.dev/icons?i=github)
 ![My Skills](https://skillicons.dev/icons?i=idea)
 ![My Skills](https://skillicons.dev/icons?i=vscode)
 ![My Skills](https://skillicons.dev/icons?i=visualstudio)
+![My Skills](https://skillicons.dev/icons?i=eclipse)
+![My Skills](https://skillicons.dev/icons?i=git)
 
 
-
-### Système
-
-![My Skills](https://skillicons.dev/icons?i=windows)
-![My Skills](https://skillicons.dev/icons?i=linux)
+### Projets universitaire
+- [Arcade de jeu](https://github.com/d3n0x8/Games-Arcade) - Python
+- [Scrabble](https://github.com/ntilleul/scrabble) - Java, JavaFX
