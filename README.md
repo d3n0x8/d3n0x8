@@ -5,32 +5,37 @@ You can click the Preview link to take a look at your changes.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1500&color=3AC3F7&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Andr%C3%A9as+Rey+Malissein+!;Bonjour%2C+je+suis+Andr%C3%A9as+Rey+Malissein+!)](https://git.io/typing-svg)
 
-# A propos de moi
-- 👋 Bonjour, je m'appelle Andréas REY MALISSEIN et j'ai 18 ans.
-- 🌍 Basé à Limoges en France
-- 💼 Etudiant de première année de BUT Informatique à [l'université de Limoges](https://www.unilim.fr/)
+<p> 💼 French student at the <a href="https://unilim.fr/">  University of Limoges</a></p>
 
 
-## Mes compétences 
-### Languages 
+<h2> My Skills </h2>
+<h3>Languages and Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?i=py)
-![My Skills](https://skillicons.dev/icons?i=java)
-![My Skills](https://skillicons.dev/icons?i=cpp)
-![My Skills](https://skillicons.dev/icons?i=c)
-![My Skills](https://skillicons.dev/icons?i=bash)
-![My Skills](https://skillicons.dev/icons?i=html)
-![My Skills](https://skillicons.dev/icons?i=css)
-
-### Applications
-
-![My Skills](https://skillicons.dev/icons?i=idea)
-![My Skills](https://skillicons.dev/icons?i=vscode)
-![My Skills](https://skillicons.dev/icons?i=visualstudio)
-![My Skills](https://skillicons.dev/icons?i=eclipse)
-![My Skills](https://skillicons.dev/icons?i=git)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
+</p>
 
 
-### Projets universitaire
-- [Arcade de jeu](https://github.com/d3n0x8/Games-Arcade) - Python
-- [Scrabble](https://github.com/ntilleul/scrabble) - Java, JavaFX
+<h3>Current Learning</h3>
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+<h2>Projects</h2>
+<h3>University Projects</h3> 
+<p>
+  <li>
+    <p><a href = "https://github.com/d3n0x8/Games-Arcade">Game arcade</a> - Python</p>
+  </li>
+  <li>
+    <p><a href = "https://github.com/ntilleul/scrabble">Scrabble</a> - Java, JavaFX </p>
+  </li>
+  
+</p>
