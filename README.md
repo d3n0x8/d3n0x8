@@ -7,32 +7,33 @@ You can click the Preview link to take a look at your changes.
 
 <p> 💼 French student at the <a href="https://unilim.fr/">  University of Limoges</a></p>
 
-
-<h2> My Skills </h2>
-<h3>Languages and Tools</h3>
+<h2>Languages and Tools</h2>
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
 
 </p>
-
 
 <h2>Projects</h2>
 <h3>University Projects</h3> 
 <p>
   <li>
-    <p><a href = "https://github.com/d3n0x8/Games-Arcade">Game arcade</a> - Python</p>
+    <p>Logiciel raytracing - C++ </p>
   </li>
   <li>
     <p><a href = "https://github.com/ntilleul/scrabble">Scrabble</a> - Java, JavaFX </p>
+  </li>
+  <li>
+    <p><a href = "https://github.com/d3n0x8/Games-Arcade">Game arcade</a> - Python</p>
   </li>
   
 </p>
