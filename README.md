@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <h3>University Projects</h3> 
 <p>
   <li>
-    <p>Logiciel raytracing - C++ </p>
+    <p>Raytracing software - C++ </p>
   </li>
   <li>
     <p><a href = "https://github.com/ntilleul/scrabble">Scrabble</a> - Java, JavaFX </p>
